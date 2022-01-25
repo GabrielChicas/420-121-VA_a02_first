@@ -1,2 +1,4 @@
-# 420-121-VA_a02_first
-First Repo for Intro To Computers Science
+This is my first file
+Wonderful stuff goes here
+im inserting another line of text
++A third line just to have some content
